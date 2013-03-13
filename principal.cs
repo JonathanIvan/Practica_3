@@ -8,7 +8,7 @@ namespace Practica4
 		static void Main(string[] args)
 		{
 			Hashtable hashtable = new Hashtable();
-			
+
 			for (int i = 0; i < 4; i++)
 			{
 				Persona persona = new Persona();

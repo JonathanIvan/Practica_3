@@ -2,11 +2,14 @@ using System;
 
 namespace Practica4
 {
-	public class persona
+	public class Persona
 	{
-		public persona ()
-		{
+	        public string nombre;
+			public string facebook;
+			public string domicilio;
+			public string telefono;
+			public string codigo;
 		}
 	}
-}
+
 
